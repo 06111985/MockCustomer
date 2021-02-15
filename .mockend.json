@@ -1,0 +1,14 @@
+[
+    {
+        "customer_id": 1,
+        "customer_code": "001",
+        "customer_name": "Jua Pablo Montoya",
+        "customer_type": "A"
+    },
+    {
+        "customer_id": 2,
+        "customer_code": "002",
+        "customer_name": "Luiz Paulo Marin",
+        "customer_type": "A"
+    }
+]
