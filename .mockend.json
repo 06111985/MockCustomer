@@ -1,5 +1,5 @@
 {
- "Customer"
+ "Customer" :[
     {
         "customer_id": 1,
         "customer_code": "001",
@@ -12,4 +12,5 @@
         "customer_name": "Luiz Paulo Marin",
         "customer_type": "A"
     }
+    ]
 }
